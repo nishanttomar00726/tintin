@@ -1,0 +1,75 @@
+
+.font{
+  color: #393e46;
+  font-size:2.5rem;
+  display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.first{
+  background-color: #8ccbbe;
+  width: 100%;
+}
+.iphone{
+  margin-left: 200px;
+  margin-top: 20px;
+  height: 500px;
+  width: 250px;
+  margin-bottom: 20px;
+ transform: rotate(10deg);
+}
+.main{
+
+  margin-left: 200px;
+  margin-top: 70px;
+  font-size: 50px;
+}
+.butt{
+display: inline-block;
+position:absolute;
+  margin-left: 200px;
+  margin-top: 20px;
+
+
+}
+.butto{
+
+ margin-left: 340px;
+ margin-top: 20px;
+}
+.second{
+  background-color: #ade498;
+}
+
+.easy{
+
+  border-radius: 80%;
+  height: 80px;
+  width:80px;
+  padding-bottom:5px;
+}
+.features{
+  text-align: center;
+  padding: 7% 10%;
+}
+.pricing{
+  background-color: #f9d56e;
+  padding-top: 10px;
+}
+.priceh1{
+  text-align: center;
+}
+.par1{
+    text-align: center;
+}
+.modi{
+  text-align: center;
+  padding: 2% 10%;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
